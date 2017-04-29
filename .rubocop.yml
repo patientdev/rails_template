@@ -1,0 +1,5 @@
+AllCops:
+  DisplayCopNames: true
+
+Style/AlignParameters:
+  EnforcedStyle: with_fixed_indentation
