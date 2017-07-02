@@ -69,7 +69,7 @@ Rails.application.configure do
   # environment)
   # config.active_job.queue_adapter     = :resque
   # config.active_job.queue_name_prefix =
-  #   'patientdev_rails_template#{Rails.env}'
+  #   'PatientDevRailsTemplate#{Rails.env}'
   config.action_mailer.perform_caching = false
 
   # Ignore bad email addresses and do not raise email delivery errors.
