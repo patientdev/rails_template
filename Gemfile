@@ -4,6 +4,8 @@ source 'https://rubygems.org'
 
 ruby '2.4.1'
 
+gem 'bootstrap', '~> 4.0.0.alpha6'
+gem 'jquery-rails'
 gem 'pg'
 gem 'rails'
 gem 'slim-rails'
