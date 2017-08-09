@@ -8,6 +8,7 @@ gem 'bootstrap', '~> 4.0.0.alpha6'
 gem 'jquery-rails'
 gem 'pg'
 gem 'rails'
+gem "react_on_rails", "8.0.6"
 gem 'slim-rails'
 
 group :development, :test do
